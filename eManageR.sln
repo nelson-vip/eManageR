@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eManager.Core", "eManager.Core\eManager.Core.csproj", "{10CAFA7A-C265-4350-BECF-828B42A62CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eManageR.Web", "eManageR.Web\eManageR.Web.csproj", "{67430BE0-5044-4C7E-9AC1-8FD0010A7B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CAFA7A-C265-4350-BECF-828B42A62CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CAFA7A-C265-4350-BECF-828B42A62CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CAFA7A-C265-4350-BECF-828B42A62CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CAFA7A-C265-4350-BECF-828B42A62CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67430BE0-5044-4C7E-9AC1-8FD0010A7B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67430BE0-5044-4C7E-9AC1-8FD0010A7B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67430BE0-5044-4C7E-9AC1-8FD0010A7B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67430BE0-5044-4C7E-9AC1-8FD0010A7B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
